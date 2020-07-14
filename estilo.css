@@ -1,2 +1,6 @@
 h1{color:blue} 
 .banana{background-color:yellow}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
